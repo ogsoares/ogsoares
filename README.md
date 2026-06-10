@@ -11,6 +11,7 @@ Tenho interesse nas áreas de Infraestrutura de TI, Redes de Computadores, Supor
 🌱 Aprendendo continuamente sobre desenvolvimento de software e administração de sistemas
 📚 Construindo um portfólio de projetos para demonstrar minha evolução profissional
 🛠️ Tecnologias e Conhecimentos
+
 Redes e Infraestrutura
 Redes LAN e WAN
 IPv4 e IPv6
@@ -19,12 +20,15 @@ VLANs
 Cisco Packet Tracer
 Modelo OSI e TCP/IP
 Troubleshooting de redes
+
 Sistemas Operacionais
 Linux
+
 Windows
 Windows Server
 PowerShell
 Linha de comando (CLI)
+
 Desenvolvimento
 C#
 HTML5
@@ -32,6 +36,7 @@ CSS3
 JavaScript
 SQL
 Git e GitHub
+
 📂 Projetos
 
 Aqui você encontrará projetos relacionados a:
