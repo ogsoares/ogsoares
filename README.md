@@ -1,29 +1,48 @@
-### 👋 Olá! Eu sou o Gustavo Soares, seja bem-vindo(a) ao meu GitHub!
+👋 Olá! Eu sou o Gustavo Soares
 
-🎓 Sou estudante de Redes de Computadores no SENAI e apaixonado por tecnologia, infraestrutura de TI, redes e tudo o que envolve conectar o mundo!
+🎓 Técnico em Redes de Computadores pelo SENAI e estudante de Análise e Desenvolvimento de Sistemas no IFSP.
 
-## 💼 O que você vai encontrar aqui
+Tenho interesse nas áreas de Infraestrutura de TI, Redes de Computadores, Suporte Técnico e Desenvolvimento de Software. Busco constantemente aprimorar meus conhecimentos por meio de projetos práticos, estudos e experiências que contribuam para minha evolução profissional.
 
-- 🖧 Projetos de simulação de redes (Packet Tracer)
-- ⚙️ Scripts e automações para redes e servidores
-- 🐧 Estudos sobre Linux, Windows Server e CLI
-- 📚 Anotações e materiais de estudo
+💼 Áreas de Interesse
+Infraestrutura de TI
+Redes de Computadores
+Suporte Técnico
+Administração de Sistemas
+Desenvolvimento de Software
+Segurança da Informação
 
-## 🚀 Estou aprendendo
+🛠️ Tecnologias e Conhecimentos
+Redes e Infraestrutura
+Configuração de redes LAN e WAN
+Endereçamento IPv4 e IPv6
+DHCP, DNS, NAT e VLANs
+Roteadores e switches Cisco (Packet Tracer)
+Modelo OSI e TCP/IP
+Troubleshooting de redes
 
-- Configuração de redes LAN/WAN
-- Roteadores e switches Cisco (Packet Tracer)
-- Protocolos como DHCP, DNS, NAT, etc.
-- Servidores Linux e Windows
-- Fundamentos de segurança de redes
+🛠️ Sistemas Operacionais
+Linux
+Windows
+Windows Server
+Linha de comando (CLI)
 
-## 📌 Objetivo
+🛠️ Desenvolvimento
+C#
+Estruturas de Dados
+HTML, CSS e JavaScript
+Banco de Dados SQL
 
-Compartilhar minha evolução na área de infraestrutura e redes, além de criar um portfólio sólido para o mercado de trabalho.
+📂 Projetos
+Neste perfil você encontrará:
+🖧 Simulações e laboratórios de redes
+⚙️ Scripts de automação
+💻 Projetos acadêmicos e pessoais
+🐧 Estudos de administração de sistemas
+📚 Anotações e materiais de aprendizado
 
-## 📫 Fale comigo
+🎯 Objetivo Profissional
+Desenvolver uma carreira sólida na área de Tecnologia da Informação, atuando em Infraestrutura, Redes, Suporte ou Desenvolvimento, contribuindo com soluções eficientes, aprendizado contínuo e crescimento profissional.
 
-- [LinkedIn](www.linkedin.com/in/gustavo-soares-90049028b) 
-- Email: gustavononato1000@gmail.com
-
-
+📫 Contato
+Fique à vontade para explorar meus projetos e acompanhar minha trajetória na área de tecnologia. Sugestões, feedbacks e conexões são sempre bem-vindos!
